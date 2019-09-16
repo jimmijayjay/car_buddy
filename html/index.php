@@ -5,7 +5,7 @@
 </head>
 
 <body>
-  <p1>Welcome to Car Buddy</p1>
+  <h1 style="text-align: center;">Welcome to Car Buddy</h1>
 
   <?php phpinfo(); ?>
 </body>
